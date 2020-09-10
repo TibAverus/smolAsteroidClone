@@ -24,3 +24,5 @@ if (keyboard_check_pressed(vk_space) && global.CanPlayerShoot)
 }
 
 move_wrap(true, true, sprite_width/2);
+
+// This is just some random useless stuff!
