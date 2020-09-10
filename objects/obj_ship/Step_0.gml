@@ -1,17 +1,3 @@
-//switch(keyboard_key)
-//{
-//	case vk_left:
-//		image_angle += 4;
-//		break;
-//	case vk_right:
-//		image_angle -= 4;
-//		break;
-//	case vk_up:
-//		motion_add(image_angle, 0.06);
-//		break;
-//}
-
-
 if (!isShipInvincible)
 {
 	if keyboard_check(vk_left)
